@@ -1,0 +1,27 @@
+Sem.    No.     Name
+2013S   CS101*  Introduction to Programming
+2015S   CS109   Programming Practice
+2013S   CS204*  Discrete Mathematics
+2014S   CS206*  Data Structure
+2015F   CS230   System Programming
+2016S   CS300*  Introduction to Algorithms
+2015F   CS311*  Computer Organization
+2015S   CS320*  Programming Language
+2013F   CS322   Formal Languages and Automata
+2015S   CS360   Introduction to Database
+2016S   CS402   Introduction to Logic for Computer Science
+2016S   CS408*  Computer Science Project
+2016F   CS420   Compiler Design
+2014F   CS422   Computation Theory
+2015S   CS448   Introduction to Information Security
+2016F   CS490  Research in Computer Science
+2016F   CS492   Special Topics in Computer Science<Search Based Software Engineering>
+2014S   CS500   Design and Analysis of Algorithm
+2015F   CS520   Theory of Programming Language
+2015F   IS523   Hacking Exposed
+
+Updated at 2016-12-26
+
+- CS Related Courses ONLY, Sorted by Course No.
+- YYYYS / YYYYF: YYYY Spring / Fall Semester
+- * means Major Required

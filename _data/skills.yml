@@ -1,12 +1,21 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Web Backends
+  description: Django, Flask, Spring Boot*
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Web Frontends 
+  description: HTML, CSS, Vue
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Programming Languages
+  description: Python, JavaScript, Java*, Kotlin* 
+
+- skill: Cloud Products
+  description: GCP (AppEngine, GKE, BigQuery, ...), AWS (EC2, S3, CodeDeploy, ...)
+
+- skill: Basics
+  description: Git, MySQL, IntelliJ, PyCharm, Vim (and no Emacs!)
+
+- skill: Natural Languages
+  description: Korean (native), English (sometimes, it's broken)
+
+- skill: Hello, World!
+  description: TypeScript, Go, React, Angular, C#

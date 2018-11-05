@@ -1,16 +1,17 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
+- project: SPARCS SSO
+  url: https://sso.sparcs.org/
+  role: PM &bull; Developer
+  duration: 2015 &mdash; 2018
+  description: <a href="https://github.com/sparcs-kaist/sparcssso/" target="_blank">Github</a> &bull; SPARCS SSO is a single sign on service for SPARCS services, including <a href="https://otlplus.sparcs.org/">OTL+</a> and SPARCS internal wiki. It is based on Django 1.11, and it uses a custom protocol that originates from OAuth2, with some simplification applied (for example, there are no scope parameter and dialogs).
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Other SPARCS Projects
+  role: Developer
+  duration: 2015 &mdash; 2017
+  details:
+  - title: SPARCS PKI
+    detail: <a href="https://github.com/sparcs-kaist/pki/" target="_blank">Github</a> &bull; SPARCS PKI is a simple public key infrastructure for SPARCS members and services. Flask + OpenSSL are used. It is not being used due to administration issues.
+  - title: Heartbeat
+    detail: <a href="https://github.com/sparcs-kaist/heartbeat-server/" target="_blank">Github (Server)</a>, <a href="https://github.com/sparcs-kaist/heartbeat-client/" target="_blank">Github (Client)</a> &bull; Heartbeat is a web-based monitoring tool for SPARCS services. Django 1.10 and Chart.js are used. Due to hardware issues, it is not on service.
+  - title: nugu
+    detail: <a href="https://github.com/sparcs-kaist/nugu/" target="_blank">Github</a> &bull; nugu is a contact command line tool for SPARCS members. I migrated old Perl code to Python 3. Also, there was a working bot in SPARCS Slack.

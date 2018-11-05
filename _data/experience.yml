@@ -1,19 +1,43 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Vonvon
+  link: https://en.vonvon.me/about
+  position: Developer
+  duration: 2018-06 &mdash; Present
+  summary: I developed an automated ads manager, and migrated a set of APIs.
+  details:
+  - detail: Made an automated ads manager; it automatically creates ads from the content management tools, measures various metrics (CPC, ROI, etc.) using Google DFP and Facebook Ad APIs, changes their budgets depending on the metrics.
+  - detail: Migrated a set of image processing APIs from Google AppEngine to Google Kubernetes Engine.
+  - detail: Organized duplicate build and deploy scripts in many git repositories.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Lendit
+  link: https://www.lendit.co.kr/
+  position: Software Engineering Manager
+  duration: 2017-07 &mdash; 2018-05
+  summary: I developed various features for Lendit's web service, back office and infrastructures.
+  details:
+  - detail: Improved build and deploy infrastructures for automatic deployments using Travis CI and AWS CodeDeploy.
+  - detail: Refactored and optimized codes; removed a lot of legacy from both backends and frontends (converting Java Date to LocalDate and LocalDateTime, converting JSP pages to Vue, converting Java to Kotlin).
+  - detail: Coded an program to transfer telegram to Shinhan bank using Python 3.6 + aiohttp.
+  - detail: Opened a <a href="https://lenditkr.github.io/" target="_blank">tech blog</a> and posted work-related articles including <a href="https://lenditkr.github.io/interview/colin/" target="_blank">interviews</a> and <a href="https://lenditkr.github.io/infrastructure/deploy-4/" target="_blank">the build infrastructures</a>.
+  - detail: Made a simplified corporate web portal for managing leaves and integrating employee information.
 
+- company: Security @ NAVER Corp.
+  link: https://www.navercorp.com/en/
+  position: Undergraduate Intern
+  duration: 2017-01 &mdash; 2017-06
+  summary: I participated in small projects related to security issues.
+  details:
+  - detail: Developed a small web platform that manages security scanners.
+  - detail: Improved TLS/SSL vulnerabilities scanner in terms of accuracy and speed using Go.
+  - detail: Made a dynamic crawler and an reflected XSS detector using headless Chrome.
+  - detail: Made a Whale &amp; Chrome browser extension during the company hackathon.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: SysSec Lab. @ KAIST GSIS
+  link: https://syssec.kaist.ac.kr/
+  position: Undergraduate Intern
+  duration: 2016-02 &mdash; 2016-12
+  summary: I participated in a lab project.
+  details:
+  - detail: Developed a TLS/SSL vulnerabilities scanner using Python.
+  - detail: Performed static and dynamic analyze of Android apps.
+  - detail: Studied OAuth & OpenID connect vulnerabilities.

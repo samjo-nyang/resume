@@ -1,13 +1,17 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Bachelor's Degree, School of Computing
+  uni: KAIST (Korea Advanced Institute of Science and Technology)
+  year: 2014 &mdash; Present
+  details:
+  - detail: CS101 TA (2016 Fall)
+  - detail: Honor Student (2016 Spring &mdash; Present)
+  - detail: Dean's List (2015 Spring)
+  - detail: <a href="https://cs.kaist.ac.kr/" target="_blank">School of Computing</a> (2015.03 &mdash; Present)&#58; student, <a href="/courses.txt" target="_blank">taken courses</a>
+  - detail: <a href="https://sparcs.org/" target="_blank">SPARCS</a> (2014.03 &mdash; Present)&#58; staff (2016), developer and wheel (server manager)
 
 - degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  uni: KSA of KAIST (Korea Science Academy)
+  year: 2011 &mdash; 2013
+  details:
+  - detail: <a href="https://gaonnuri.ksain.net/lab/?page=about_intel" target="_blank">Intel of Students Union</a> (2013.03 &mdash; 2014.02)&#58; developer and sysop of <a href="https://gaonnuri.ksain.net/" target="_blank">Gaonnuri</a>
+  - detail: EOS (2011.03 &mdash; 2014.02)&#58; developer</li>

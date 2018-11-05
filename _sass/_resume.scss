@@ -36,7 +36,11 @@
     text-align: center;
     letter-spacing: -.15rem;
     line-height: 1;
-    margin: 1rem 0 0;
+    margin: 1rem 0 2rem;
+  }
+
+  .header-name > small {
+    font-size: 50%;
   }
 
   .header-contact-info {
@@ -172,6 +176,13 @@
   }
 
   .resume-item-copy { margin: .75rem 0 0; }
+  .resume-item-copy-i { margin: 0 0 -1rem 0; }
+}
+
+.content-section.small-margin-child {
+  .resume-item {
+    margin-bottom: 1rem;
+  }
 }
 
 // footer styles
