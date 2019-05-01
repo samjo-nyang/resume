@@ -1,8 +1,16 @@
 # Jobs
+- company: Hyperconnect
+  link: https://hyperconnect.com/
+  position: DevOps Engineer
+  duration: 2019-04 &mdash; Present
+  summary: I am currently working in the Azar platform team.
+  details:
+  - detail: Am studying, but nothing interesting happens yet!
+
 - company: Vonvon
   link: https://en.vonvon.me/about
   position: Developer
-  duration: 2018-06 &mdash; Present
+  duration: 2018-06 &mdash; 2019-04
   summary: I developed an automated ads manager, and migrated a set of APIs.
   details:
   - detail: Made an automated ads manager; it automatically creates ads from the content management tools, measures various metrics (CPC, ROI, etc.) using Google DFP and Facebook Ad APIs, changes their budgets depending on the metrics.
@@ -11,7 +19,7 @@
 
 - company: Lendit
   link: https://www.lendit.co.kr/
-  position: Software Engineering Manager
+  position: Software Engineer
   duration: 2017-07 &mdash; 2018-05
   summary: I developed various features for Lendit's web service, back office and infrastructures.
   details:
