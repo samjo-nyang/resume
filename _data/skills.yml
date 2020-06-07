@@ -1,21 +1,24 @@
 # Skills
+- skill: Cloud Products
+  description: AWS (EC2, EKS, VPC, RDS, ...) GCP* (GKE, BigQuery, ...)
+
+- skill: Tools
+  description: Kubernetes, Istio, Spinnaker, Terraform, Ansible
+
+- skill: Basics
+  description: Linux, Git, MySQL, PyCharm, Vim (and no Emacs!)
+
+- skill: Programming Languages
+  description: Python, JavaScript, Java*, Kotlin*
+
 - skill: Web Backends
   description: Django, Flask, Spring Boot*
 
-- skill: Web Frontends 
-  description: HTML, CSS, Vue
-
-- skill: Programming Languages
-  description: Python, JavaScript, Java*, Kotlin* 
-
-- skill: Cloud Products
-  description: GCP (AppEngine, GKE, BigQuery, ...), AWS (EC2, S3, CodeDeploy, ...)
-
-- skill: Basics
-  description: Git, MySQL, IntelliJ, PyCharm, Vim (and no Emacs!)
+- skill: Web Frontends*
+  description: HTML, CSS, Vue, NuxtJs
 
 - skill: Natural Languages
   description: Korean (native), English (sometimes, it's broken)
 
-- skill: Hello, World!
-  description: TypeScript, Go, React, Angular, C#
+- skill: Hello, World!*
+  description: TypeScript, Go, React, C#

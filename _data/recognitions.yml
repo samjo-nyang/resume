@@ -1,22 +1,9 @@
 # Recognitions
-- award: IoT Security Idea Contest
-  link: http://concert.or.kr/iotcube/contest_eng.html
-  name: Most Excellent Prize
-  year: 2017
-  summary: I suggested various improvements of the <a href="https://iotcube.korea.ac.kr/process/type/nf1">IoTcube TLS/SSL security scanner</a>, including
-  details:
-  - detail: Accuracy improvements; some implementations do not follow standards.
-  - detail: Add more inspections; certificate trust, old ciphers, and rarely known vulnerabilities.
-  - detail: Multiple, concurrent and periodic check features.
-  - detail: Native scanner supports for enterprise customers.
-
 - award: National Crypto Contest
   link: http://kcryptoforum.or.kr/
   name: First &amp; Second Place
   year: 2012 &mdash; 2015
   summary: My team members solved variety of cryptographic &amp; forensic problems, such as
   details:
-  - detail: Find hidden messages in documents, images or audio files.
-  - detail: Recover hidden messages in volume or packet dump files.
+  - detail: Find and recover hidden messages in documents, images or packet dump files.
   - detail: Crack vulnerable crypto algorithms or systems (classical ciphers, WEP)
-  - detail: Find a hash collision of given algorithms.

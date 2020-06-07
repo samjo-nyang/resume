@@ -3,9 +3,14 @@
   link: https://hyperconnect.com/
   position: DevOps Engineer
   duration: 2019-04 &mdash; Present
-  summary: I am currently working in the Azar platform team.
+  summary: I am currently working in the DevOps team.
   details:
-  - detail: Am studying, but nothing interesting happens yet!
+  - detail: Provision and manage 10+ new Kubernetes clusters for production, development and managements.
+  - detail: Develop and manage CI/CD for 50+ new microservices using Git, Jenkins, Spinnaker, and Vault.
+  - detail: Provide automated monitoring and alerting to developers using Prometheus, Grafana, and Zabbix
+  - detail: Migrate a lot of legacies, including outdated OS, Kubernetes, Jenkins, and Zabbix
+  - detail: Develop management tools and useful CLIs, including production DB query executor, Spinnaker pipeline generator, and configuration/credentials fetcher for multiple AWS accounts and Kubernetes clusters.
+  - detail: Research and do PoC, including adopting Istio and Vault, finding an upgrade path of Kubernetes and Istio, try to use Thanos and Cortex.
 
 - company: Vonvon
   link: https://en.vonvon.me/about
@@ -18,7 +23,7 @@
   - detail: Organized duplicate build and deploy scripts in many git repositories.
 
 - company: Lendit
-  link: https://www.lendit.co.kr/
+  link: https://lendit.co.kr/aboutus
   position: Software Engineer
   duration: 2017-07 &mdash; 2018-05
   summary: I developed various features for Lendit's web service, back office and infrastructures.
@@ -27,7 +32,6 @@
   - detail: Refactored and optimized codes; removed a lot of legacy from both backends and frontends (converting Java Date to LocalDate and LocalDateTime, converting JSP pages to Vue, converting Java to Kotlin).
   - detail: Coded an program to transfer telegram to Shinhan bank using Python 3.6 + aiohttp.
   - detail: Opened a <a href="https://lenditkr.github.io/" target="_blank">tech blog</a> and posted work-related articles including <a href="https://lenditkr.github.io/interview/colin/" target="_blank">interviews</a> and <a href="https://lenditkr.github.io/infrastructure/deploy-4/" target="_blank">the build infrastructures</a>.
-  - detail: Made a simplified corporate web portal for managing leaves and integrating employee information.
 
 - company: Security @ NAVER Corp.
   link: https://www.navercorp.com/en/
@@ -35,10 +39,8 @@
   duration: 2017-01 &mdash; 2017-06
   summary: I participated in small projects related to security issues.
   details:
-  - detail: Developed a small web platform that manages security scanners.
   - detail: Improved TLS/SSL vulnerabilities scanner in terms of accuracy and speed using Go.
   - detail: Made a dynamic crawler and an reflected XSS detector using headless Chrome.
-  - detail: Made a Whale &amp; Chrome browser extension during the company hackathon.
 
 - company: SysSec Lab. @ KAIST GSIS
   link: https://syssec.kaist.ac.kr/
@@ -48,4 +50,3 @@
   details:
   - detail: Developed a TLS/SSL vulnerabilities scanner using Python.
   - detail: Performed static and dynamic analyze of Android apps.
-  - detail: Studied OAuth & OpenID connect vulnerabilities.
