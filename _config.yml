@@ -12,7 +12,7 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Sungwon Cho"
 resume_nickname:                "Sam Jo; 뀨냥이"
-resume_title:                   "Software Engineer"
+resume_title:                   "DevOps Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "samjo.nyang@gmail.com"

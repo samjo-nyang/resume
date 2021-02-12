@@ -5,12 +5,18 @@
   duration: 2019-04 &mdash; Present
   summary: I am currently working in the DevOps team.
   details:
-  - detail: Provision and manage 10+ new Kubernetes clusters for production, development and managements.
-  - detail: Develop and manage CI/CD for 50+ new microservices using Git, Jenkins, Spinnaker, and Vault.
-  - detail: Provide automated monitoring and alerting to developers using Prometheus, Grafana, and Zabbix
-  - detail: Migrate a lot of legacies, including outdated OS, Kubernetes, Jenkins, and Zabbix
-  - detail: Develop management tools and useful CLIs, including production DB query executor, Spinnaker pipeline generator, and configuration/credentials fetcher for multiple AWS accounts and Kubernetes clusters.
-  - detail: Research and do PoC, including adopting Istio and Vault, finding an upgrade path of Kubernetes and Istio, try to use Thanos and Cortex.
+  - detail: Introduce Kubernetes to production services including <a href="https://azarlive.com/" target="_blank">Azar</a>, <a href="https://hakuna.live/en" target="_blank">Hakuna</a> and <a href="https://slide-dating.com/" target="_blank">Slide</a>; help developers to migrate EC2 based legacy microservices to Kubernetes.
+  - detail: Deploy 10+ Kubernetes clusters for productions, developments and managements, and also deploy infrastructure components, including <a href="https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler" target="_blank">cluster-autoscaler</a>, <a href="https://github.com/prometheus/node_exporter" target="_blank">node-exporter</a> and <a href="https://github.com/zabbix/zabbix" target="_blank">Zabbix agents</a>.
+  - detail: Develop and manage CI/CD pipelines for 200+ microservices over 3+ products and 4+ environments using <a href="https://spinnaker.io/" target="_blank">Spinnaker</a>, Git, Jenkins, Helm, and Vault.
+  - detail: Provide automated monitoring and alerting system using Prometheus, <a href="https://cortexmetrics.io/" target="_blank">Cortex</a>, Grafana, and Zabbix; develop a GitOps system to configure alerts conditions and thresholds.
+  - detail: Research and do PoC, including adopting Istio, Vault, Cortex, <a href="https://aws.amazon.com/bottlerocket/" target="_blank">Bottlerocket</a>, and <a href="https://goharbor.io/" target="_blank">Harbor</a> to production; finding an zero-downtime upgrade path of Kubernetes, Istio and other infrastructure components.
+  - detail: Upgrade some legacy systems, including OS, Kubernetes, Jenkins and Zabbix; migrate VPC peerings to inter-region peered <a href="https://aws.amazon.com/transit-gateway/" target="_blank">transit gateways</a>.
+  - detail: Develop a GitOps based permission management system, using Active Directory and <a href="https://aws.amazon.com/single-sign-on/" target="_blank">AWS SSO</a> with 10+ accounts, <a href="https://docs.aws.amazon.com/vpn/latest/clientvpn-admin/what-is.html" target="_blank">AWS Client VPN</a> with 40+ VPCs.
+  - detail: Develop management tools and useful internal CLIs, including production DB query executor, Spinnaker pipeline generator, and configuration/credentials fetcher for multiple AWS accounts and Kubernetes clusters.
+  - detail: Participate in a few re-building projects of business-critical microservices; setup initial architectures with developers to meet high-availability and multi-regional requirements.
+  - detail: Also take a role of a site reliability engineer; have an on-call duty for Azar and common infrastructures, plan and train disaster recovery with an AWS region failure scenario.
+  - detail: Contribute to some open source projects, including <a href="https://github.com/kubernetes-sigs/aws-ebs-csi-driver/pull/633" target="_blank">aws-ebs-csi-driver</a> and <a href="https://github.com/istio/istio/pull/25867" target="_blank">Istio</a>.
+  - detail: Write 5+ <a href="https://hyperconnect.github.io/" target="_blank">tech blog articles (Korean)</a>, 50+ internal manuals and tutorials; do some public presentations - <a href="https://drive.google.com/file/d/1jE4yp37dqIXuEfUoj_7_C2xQBwZnugJr", target="_blank">EKS Cluster Migration (Korean)</a> and <a href="https://www.youtube.com/watch?v=J_7bfACR3jo" target="_blank">Microservice CI/CD (Korean)</a>.
 
 - company: Vonvon
   link: https://en.vonvon.me/about
