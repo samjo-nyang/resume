@@ -65,6 +65,21 @@
       <!-- end Experience -->
       {% endif %}
 
+      {% if site.resume_section_skills %}
+      <!-- begin Skills -->
+      <section class="content-section small-margin-child">
+        <header class="section-header">
+          <h2>Skills <small style="font-size:50%">(*: beginner)</small></h2>
+        </header>
+        {% for skill in site.data.skills %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">&bull; {{ skill.skill }}: <span style="font-weight: normal">{{ skill.description }}</span></h4>
+        </div>
+        {% endfor %}
+      </section>
+      <!-- end Skills -->
+      {% endif %}
+
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
       <section class="content-section">
@@ -91,20 +106,6 @@
       <!-- end Projects -->
       {% endif %}
 
-      {% if site.resume_section_skills %}
-      <!-- begin Skills -->
-      <section class="content-section small-margin-child">
-        <header class="section-header">
-          <h2>Skills <small style="font-size:50%">(*: beginner)</small></h2>
-        </header>
-        {% for skill in site.data.skills %}
-        <div class="resume-item">
-          <h4 class="resume-item-details">&bull; {{ skill.skill }}: <span style="font-weight: normal">{{ skill.description }}</span></h4>
-        </div>
-        {% endfor %}
-      </section>
-      <!-- end Skills -->
-      {% endif %}
 
       {% if site.resume_section_recognition %}
       <!-- begin Recognition -->
@@ -222,7 +223,7 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Made by <a href="https://github.com/samjo-nyang">@samjo-nyang</a>. Updated at 2020-06-07</p>
+        <p class="footer-line">Made by <a href="https://github.com/samjo-nyang">@samjo-nyang</a>. Updated at 2021-02-12</p>
       </footer>
     </div>
   </body>

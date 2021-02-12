@@ -1,6 +1,6 @@
 # Skills
 - skill: Cloud Products
-  description: AWS (EC2, EKS, VPC, RDS, ...) GCP* (GKE, BigQuery, ...)
+  description: AWS (EC2, EKS, VPC, S3, RDS, ElastiCache and more), GCP* (GKE)
 
 - skill: Tools
   description: Kubernetes, Istio, Spinnaker, Terraform, Ansible
